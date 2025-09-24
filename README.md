@@ -5,6 +5,17 @@ Aplikasi ini bertujuan membantu pengguna menentukan jenis kopi yang sesuai denga
 
 ---
 
+*Struktur Direktori*
+```
+Sistem-Pakar-Kopi/
+│── assets/         # File CSS, gambar, ikon
+│── js/             # File JavaScript (logika sistem pakar)
+│── sistem-pakar/   # File tambahan terkait sistem pakar
+│── index.html      # Halaman utama aplikasi
+│── desktop.ini     # File bawaan Windows (tidak wajib)
+```
+---
+
 ## 📌 Fitur Utama
 - ✅ Input pilihan/pertanyaan terkait selera kopi.  
 - ✅ Memberikan rekomendasi jenis minuman kopi (contoh: Espresso, Cappuccino, Latte, Americano, dll).  
