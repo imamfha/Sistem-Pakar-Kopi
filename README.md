@@ -5,7 +5,7 @@ Aplikasi ini bertujuan membantu pengguna menentukan jenis kopi yang sesuai denga
 
 ---
 
-*Struktur Direktori*
+#Struktur Direktori
 ```
 Sistem-Pakar-Kopi/
 │── assets/         # File CSS, gambar, ikon
